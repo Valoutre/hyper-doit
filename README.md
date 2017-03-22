@@ -10,8 +10,8 @@ to `plugins` in `~/.hyper.js`.
 
 ## Credits
 
-Based on [`hyperpower`](https://atom.io/packages/power-mode) and
-[`hyper-john`](https://github.com/itszero/rage-power).
+Based on [`hyperpower`](https://github.com/zeit/hyperpower) and
+[`hyper-john`](https://github.com/cwright017/hyper-john).
 
 ## License
 
